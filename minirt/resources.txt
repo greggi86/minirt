@@ -1,0 +1,9 @@
+
+https://github.com/ricardoreves/42-minirt
+
+https://medium.com/@ridwaneelfilali/luxmancer-mastering-light-and-shadow-minirt-part-3-731cb991f5cd
+https://www.youtube.com/watch?v=iOlehM5kNSk&t=60s
+
+
+ gcc demo.c -o out -lm
+ ./out > out.ppm  

@@ -1,0 +1,24 @@
+RESOURCES:
+
+https://github.com/ricardoreves/42-minirt
+
+https://medium.com/@ridwaneelfilali/luxmancer-mastering-light-and-shadow-minirt-part-3-731cb991f5cd
+https://www.youtube.com/watch?v=iOlehM5kNSk&t=60s
+
+
+FIGMA_VISUALIZATION (IN PROGRESS)
+
+https://www.figma.com/design/2w6Wtmlmf1pmR9GrY8l8GH/Untitled?node-id=0-1&t=ukEFykZCdoQdxJUX-1
+
+QUESTIONS/THOUGHTS:
+
+-> Does every scene have to at least have to include 3 objects?
+   important for parsing
+	source: subject page 5, third point
+	
+-> before compiling the minirt, compilation of minilibx necessary
+
+-> the test directory is a check for functinality of the mlx
+
+
+
